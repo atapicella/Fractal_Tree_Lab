@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=currentOrder
+comment0.target=TreePanel(int)
+comment1.params=order\ prevX\ prevY\ prevAngle\ prevLength\ page
+comment1.target=void\ drawFractal(int,\ double,\ double,\ double,\ double,\ java.awt.Graphics)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=order
+comment3.target=void\ setOrder(int)
+comment4.params=
+comment4.target=int\ getOrder()
+numComments=5
